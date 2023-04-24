@@ -122,6 +122,25 @@ body {
   color: #fff;
 }
 
+/* Personal Projects title */
+
+#title {
+  font-size: large;
+  color: #000;
+}
+
+/* Download and View Buttons */
+
+#download {
+  border-radius: 7px;
+  margin-right: 5px;
+}
+
+#view {
+  border-radius: 7px;
+  margin-left: 5px;
+}
+
 /* Contact Form */
 
 .contactForm {
